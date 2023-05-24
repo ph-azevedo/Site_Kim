@@ -138,4 +138,4 @@ EMAIL_PORT = ###
 EMAIL_USER_TLS = False
 EMAIL_HOST_PASSWORD = ''
 """
-
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedStaticFilesStorage'
