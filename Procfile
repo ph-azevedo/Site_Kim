@@ -1,1 +1,1 @@
-web: gunicorn Site_Kim.wsgi --log-file -
+web: gunicorn site_kim.wsgi --log-file -
