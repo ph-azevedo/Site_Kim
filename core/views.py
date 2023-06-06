@@ -55,5 +55,5 @@ def contato(request):
     }
     return render(request, 'contato.html', context)
 
-def navbar2(request):
-    return render(request, 'base.html')
+#def navbar2(request):
+#    return render(request, 'base.html')
